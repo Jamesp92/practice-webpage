@@ -1,0 +1,31 @@
+.heading {
+ font-size: large;
+ color: coral;
+text-align: center;
+font-style: oblique;
+}
+
+body { 
+  
+  text-align: center;
+   background-color: burlywood;
+
+
+}
+.events {
+    color:aquamarine ;
+    font-size: 50px;
+    font-style: oblique;
+    text-align: center;
+}
+
+.sidebar {
+    width: 20%;
+    float: left;
+    background-color: rgb(130, 42, 165);
+    border: 5px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin: 20px;
+    border-width: 5px;
+
+}
